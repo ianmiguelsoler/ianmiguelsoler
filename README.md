@@ -24,7 +24,7 @@ Soy Ian Miguel Soler, un apasionado programador joven de 21 años especializado 
 ¡Soy un gran aficionado de los juegos de mesa y siempre estoy buscando nuevos juegos para jugar con amigos y familiares!
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por la oportunidad de colaborar en proyectos emocionantes y hacer una diferencia en el mundo digital. 😊
-https://badgen.net/badge/:subject/:status/:color?icon=github
+
 --------
 <h1>Contactos Disponibles</h1>
 <div>
