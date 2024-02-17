@@ -24,3 +24,5 @@ También dispongo de Linkedin para que puedas contactarme por allí [LINK AQUÍ]
 ¡Soy un gran aficionado de los juegos de mesa y siempre estoy buscando nuevos juegos para jugar con amigos y familiares!
 
 ¡Gracias por visitar mi perfil! Estoy emocionado por la oportunidad de colaborar en proyectos emocionantes y hacer una diferencia en el mundo digital. 😊
+
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ian-m-068b1b292/)
