@@ -26,8 +26,8 @@ También dispongo de Linkedin para que puedas contactarme por allí [LINK AQUÍ]
 ¡Gracias por visitar mi perfil! Estoy emocionado por la oportunidad de colaborar en proyectos emocionantes y hacer una diferencia en el mundo digital. 😊
 
 --------
-
+<h1>Contactos Disponibles</h1>
 <div>
-    [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ian-m-068b1b292/)
-    [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:ianmiguel@gmail.com)
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/color/48/000000/gmail.png"/>
 </div>
