@@ -1,16 +1,22 @@
-### Hi there 👋
+¡Hola! 👋
+¡Bienvenido a mi perfil de GitHub! Soy Ian Miguel Soler, un apasionado programador joven de 21 años especializado en el desarrollo web. Actualmente estoy trabajando en una empresa líder en el sector, donde contribuyo al desarrollo y mantenimiento de su página web, una plataforma crucial que abarca desde la gestión logística hasta otras funcionalidades clave.
 
-<!--
-**ianmiguelsoler/ianmiguelsoler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Actualmente estoy aprendiendo:
+Mejores prácticas en el desarrollo web
+Implementación de nuevas tecnologías y frameworks
+💼 Estoy buscando colaborar en proyectos relacionados con:
+Desarrollo web
+Diseño de interfaces de usuario
+Optimización del rendimiento
+📫 Cómo contactarme:
+¡No dudes en contactarme a través de mi correo electrónico: ianmiguelsoler@example.com!
 
-Here are some ideas to get you started:
+😄 Datos curiosos:
+Me encanta salir en bicicleta y explorar nuevos caminos y paisajes.
+Soy un melómano apasionado y disfruto de la música de todos los géneros.
+Siempre estoy buscando aprender nuevas habilidades y explorar cosas que aún no sé hacer. La curiosidad es mi motor principal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Hecho divertido:
+¡Soy un gran aficionado de los juegos de mesa y siempre estoy buscando nuevos juegos para jugar con amigos y familiares!
+
+¡Gracias por visitar mi perfil! Estoy emocionado por la oportunidad de colaborar en proyectos emocionantes y hacer una diferencia en el mundo digital. 😊
