@@ -12,7 +12,8 @@ Soy Ian Miguel Soler, un apasionado programador joven de 21 años especializado 
 - Optimización del rendimiento
 
 ## 📫 Cómo contactarme:
-¡No dudes en contactarme a través de mi correo electrónico: [ianmiguelsoler@example.com](mailto:ianmiguelsoler@example.com)!
+¡No dudes en contactarme a través de mi correo electrónico: [ianmiguel@gmail.com](mailto:ianmiguel@gmail.com)!
+También dispongo de linkedin para que puedas contactarme por allí [https://www.linkedin.com/in/ian-m-068b1b292/](Link)
 
 ## 😄 Datos curiosos:
 - Me encanta salir en bicicleta y explorar nuevos caminos y paisajes.
