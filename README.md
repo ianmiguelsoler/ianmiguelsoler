@@ -26,7 +26,8 @@ También dispongo de Linkedin para que puedas contactarme por allí [LINK AQUÍ]
 ¡Gracias por visitar mi perfil! Estoy emocionado por la oportunidad de colaborar en proyectos emocionantes y hacer una diferencia en el mundo digital. 😊
 
 --------
-[<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ian-m-068b1b292/)
-<h3> Mi linkedIn</h3>
-[<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:ianmiguelsoler@example.com)
-<h3> Mi Correo</h3>
+
+<div>
+    [<img src="https://img.icons8.com/color/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ian-m-068b1b292/)
+    [<img src="https://img.icons8.com/color/48/000000/gmail.png"/>](mailto:ianmiguel@gmail.com)
+</div>
