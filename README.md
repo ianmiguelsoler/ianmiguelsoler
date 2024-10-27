@@ -1,6 +1,6 @@
 # ¡Hola! 👋 ¡Bienvenido a mi perfil de GitHub!
 
-Soy Ian Miguel Soler, un apasionado programador joven de 21 años especializado en el desarrollo web. Actualmente estoy trabajando en una empresa líder en el sector, donde contribuyo al desarrollo y mantenimiento de su página web, una plataforma crucial que abarca desde la gestión logística hasta otras funcionalidades clave.
+Soy Ian Miguel Soler, un apasionado programador joven de 21 años especializado en el desarrollo web. He estado trabajando en una empresa líder en el sector, donde contribuyo al desarrollo y mantenimiento de su página web, una plataforma crucial que abarca desde la gestión logística hasta otras funcionalidades clave. Actualmente, me estoy enriqueciendo de nuevas experiencias estudiando y formándome.  
 
 ## 🌱 Actualmente estoy aprendiendo:
 - Mejores prácticas en el desarrollo web
